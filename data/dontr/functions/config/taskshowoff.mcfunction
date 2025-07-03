@@ -1,0 +1,5 @@
+bossbar set minecraft:task1 players @a[team=1]
+bossbar set minecraft:task2 players @a[team=2]
+bossbar set minecraft:task3 players @a[team=3]
+bossbar set minecraft:task4 players @a[team=4]
+bossbar set minecraft:task5 players @a[team=5]
